@@ -1,4 +1,4 @@
-Desert locusts (Schistocerca gregaria) represent a major threat for agro-pastoral
+ABSTRACT: Desert locusts (Schistocerca gregaria) represent a major threat for agro-pastoral
 resources and food security over almost 30 million km2
 from northern Africa to the Arabian
 peninsula and India. Given the differential food preferences of this insect pest and the extent
