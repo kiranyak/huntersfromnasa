@@ -1,10 +1,14 @@
 OUR WEB APPLICATION:  https://huntersfromnasa.co/
 
 
-PROBLEM:
+PROBLEM: Worlds Population is increasing , going to be 9 billion soon. No of people to feed is increasing. On the other hand, there is famine or starvation in the world with todays 7 billion population. UN plans 17 SDGs. 1st is FOOD i.e. to reduce famine. While due to current COVID-19 situation, food production, distribution ,etc has been severely affected. If such worldwide lockdown situation has to be elongate, there will be severe food scarcity in the world.
+
+Middle Eastern, Medditerinean and esp fertile land of Indo Pak South Asian Region is more severely affected during this time. Locust ( an insect)  has returned in 27 years. It is destroying all the crops of people in that region. Due to COVID-19 fear and lockdown situation people haven't been able apply effective means/methods to get rid of them. For eg, some farmers in Pakistan started killing them manually and feeding them to their Poultry. It is massively supported and promoted by government. But, not much effective progress has been achieved. It is not the permanent solution. Locust are spreading very rapidly in those areas.
 
 
-SOLUTION:
+SOLUTION: We thought if we could track the movement/migration of Locust , and work according to those statistics, much effective measures can be acheived in controlling them. We study their suitable habitat comparing it to different factors like rainfall, temperature, soil moisture, green vegetation,etc and predict their next potential habitat.
+
+We use Imageprocessing and some modern Machine Learning, Neural Networks , etc technique for data analysis for this prediction. We use those Image data and other data from NASA, MODIS, RAMSES, etc. 
 
 
 ABSTRACT:
