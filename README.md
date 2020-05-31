@@ -24,3 +24,14 @@ loss of habitat attractiveness, likely to be abandoned by locusts. The timely av
 this information would enable control centers to focus their surveys on areas more prone
 to gregarization, leading to more efficiency in the allocation of resources and in decision
 making.
+
+METHODS USED BY MODIS:
+1. Support Vector Machine
+2. Decision Tree
+
+OUR IDEA( Methods We used):
+1. Neural Network (Backpropagation Algorithm): 
+We propose to use previous data from MODIS and train them, and use the model for other untrained data ( and check with result). We kept factors like temperature, rainfall,soil moisture, vegetation, wind direction, etc as input and Green vs  Dry(Brown) coloring as output.
+2. Principal Component Representation (Mapping Visualization)
+We reduced above multidimensional or multifactor(temp, rainfall, etc ) plot into simple PCA plot.
+
